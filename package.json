@@ -1,0 +1,24 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Weather APP make with VanillaJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpsiar/weatherJSPractice.git"
+  },
+  "keywords": [
+    "weather",
+    "JS",
+    "VanillaJS"
+  ],
+  "author": "JuanSigcho & VictorMarquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanpsiar/weatherJSPractice/issues"
+  },
+  "homepage": "https://github.com/juanpsiar/weatherJSPractice#readme"
+}
