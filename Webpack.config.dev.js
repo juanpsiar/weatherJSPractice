@@ -49,12 +49,12 @@ module.exports = {
       },
     ],
  },
-  devServer: {
+ /* devServer: {
     contentBase: path.join(__dirname, 'dist'),
     compress: true,
     historyApiFallback: true,
     port: 3000,
-  },
+  },*/
     plugins: [
         new HtmlWebpackPlugin({
                 // Inserta los assets en el documento HTML
